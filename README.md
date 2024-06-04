@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Tracker: clean up GMC (#8003)
