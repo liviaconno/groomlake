@@ -1,1 +1,1 @@
-Add OpenVINO Latency vs Throughput modes Docs page (#9001)
+Add PR Summary step to Ultralytics Actions (#7675)
