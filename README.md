@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Add visuals in guides/distance-calculation.md (#7876)
